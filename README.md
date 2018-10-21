@@ -17,3 +17,6 @@ SQL code for Part.2</br>
 initial: SpeedUpCoreAPIExampleDB.Part1.sql</br>
 final: SpeedUpCoreAPIExampleDB.Part1.sql
 
+Articles at Codeproject</br>
+https://www.codeproject.com/Articles/1260600/Speed-Up-ASP-NET-Core-WEB-API-Application-Part-1</br>
+https://www.codeproject.com/Articles/1261345/Speed-up-ASP-NET-Core-WEB-API-application-Part-2
